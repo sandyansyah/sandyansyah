@@ -1,113 +1,168 @@
-# <div align="center">✨ Welcome to Sandyka's Space ✨</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sandyka&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" width="100%" alt="Header" />
+  
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=6BB3E1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Game+Developer;Always+Learning+New+Tech" alt="Typing SVG" /></a>
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6BB3E1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Game+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:email@example.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:email@example.com" alt="Gmail Badge">
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/" alt="Twitter Badge">
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/" alt="Instagram Badge">
+  </a>
+</div>
+
+<br>
+
+<!-- Animated 3D Buttons -->
+<div align="center">
+  <a href="#projects">
+    <img src="https://readme-components.vercel.app/api?component=button&text=Projects&fill=linear-gradient(90deg,%20%232193b0,%20%236dd5ed)&shadow=0%204px%208px%200%20rgba(45,%20149,%20191,%200.4)" alt="Projects Button" />
+  </a>
+  <a href="#skills">
+    <img src="https://readme-components.vercel.app/api?component=button&text=Skills&fill=linear-gradient(90deg,%20%239b59b6,%20%23e74c3c)&shadow=0%204px%208px%200%20rgba(155,%2089,%20182,%200.4)" alt="Skills Button" />
+  </a>
+  <a href="#stats">
+    <img src="https://readme-components.vercel.app/api?component=button&text=Stats&fill=linear-gradient(90deg,%20%232ecc71,%20%237bed9f)&shadow=0%204px%208px%200%20rgba(46,%20204,%20113,%200.4)" alt="Stats Button" />
+  </a>
+  <a href="#about">
+    <img src="https://readme-components.vercel.app/api?component=button&text=About%20Me&fill=linear-gradient(90deg,%20%23f39c12,%20%23f1c40f)&shadow=0%204px%208px%200%20rgba(243,%20156,%2018,%200.4)" alt="About Button" />
+  </a>
+</div>
+
+<br>
+<hr>
+
+<!-- About Me Section with 3D Effect -->
+<h2 id="about">🚀 About Me</h2>
+
+<table>
+  <tr>
+    <td>
+      <p>I am a passionate Full Stack Developer with expertise in both web and mobile technologies. My journey in software development has led me through various technologies and frameworks, always striving to create efficient, elegant, and user-friendly solutions.</p>
+      <p>Currently exploring DevOps, Cloud Architecture, and Machine Learning to expand my technical horizons and deliver more comprehensive solutions.</p>
+    </td>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/development.svg" alt="Development Illustration" width="100%">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Skills Section with 3D Cards -->
+<h2 id="skills">🛠️ Skills & Technologies</h2>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,flutter,kotlin,swift,python,cs,cpp,php,java,html,css,git,docker,unity,unreal,mysql,firebase,aws&perline=7" alt="Skills" />
+  </a>
+</div>
+
+<details>
+  <summary><b>💻 Expand to see detailed skills</b></summary>
+  <br>
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyansyah&layout=donut&hide=html&theme=tokyonight" alt="Top Languages" />
+  </div>
+  
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <h3>Front-End</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40px" />
+      </td>
+      <td width="33%" align="center">
+        <h3>Back-End</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40px" />
+      </td>
+      <td width="33%" align="center">
+        <h3>Mobile</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
+      </td>
+    </tr>
+  </table>
+</details>
+
+<br>
+
+<!-- Projects Section with 3D Cards -->
+<h2 id="projects">🔥 Featured Projects</h2>
+
+<div align="center">
+  <a href="YOUR_PROJECT_LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandyansyah&repo=YOUR_REPO_NAME&theme=tokyonight&border_radius=10" alt="Project 1" />
+  </a>
+  <a href="YOUR_PROJECT_LINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandyansyah&repo=YOUR_REPO_NAME2&theme=tokyonight&border_radius=10" alt="Project 2" />
+  </a>
+</div>
+
+<br>
+
+<!-- Stats Section with 3D Effect -->
+<h2 id="stats">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandyansyah&theme=tokyonight&border_radius=10" alt="Streak Stats" width="450"/>
+
   <br><br>
-
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-6bb3e1?style=for-the-badge&labelColor=333333" alt="Focus" />
-    <img src="https://img.shields.io/badge/Open_to-Collaboration-6bb3e1?style=for-the-badge&labelColor=333333" alt="Open to Collaboration" />
-    <img src="https://komarev.com/ghpvc/?username=sandyansyah&style=for-the-badge&color=6bb3e1&labelColor=333333" alt="Profile Views" />
-  </p>
-</div>
-
-## <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="40"> **About Me**
-
-```javascript
-const sandyka = {
-  code: ["JavaScript", "TypeScript", "Java", "Kotlin", "Swift", "Python", "C#", "C++", "PHP"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "React Native"],
-      css: ["Tailwind", "Bootstrap", "Material UI"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express"],
-      php: ["Laravel"],
-      python: ["Django", "Flask"]
-    },
-    mobile: ["Android Native", "Flutter", "React Native", "iOS/Swift"],
-    databases: ["MySQL", "MS SQL", "MongoDB", "Firebase"],
-    gamedev: ["Unity", "Unreal Engine"],
-    devOps: ["Git", "Docker", "Nginx", "AWS", "Alibaba Cloud"]
-  },
-  currentlyLearning: ["DevOps", "Cloud Architecture", "Machine Learning"],
-}
-```
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> **Skills & Tools**
-
-<div align="center">
   
-  ### Languages
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=sandyansyah&theme=nord&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15" alt="Trophy Stats" width="90%" />
+</div>
+
+<br>
+
+<!-- What I'm Learning Section with Animation -->
+<h2>📚 Currently Learning</h2>
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300px">
   
-  ### Frameworks & Libraries
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  </p>
+  <br><br>
   
-  ### Tools & Platforms
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL" />
-    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-    <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  </p>
+  <div>
+    <img src="https://img.shields.io/badge/DevOps-3670A0?style=for-the-badge&logoColor=white" alt="DevOps" />
+    <img src="https://img.shields.io/badge/Cloud_Architecture-FF9900?style=for-the-badge&logoColor=white" alt="Cloud Architecture" />
+    <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logoColor=white" alt="Machine Learning" />
+  </div>
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Stats**
+<br>
 
+<!-- Footer Section with Animation -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sandyansyah&show_icons=true&count_private=true&hide_border=true&title_color=6bb3e1&icon_color=6bb3e1&text_color=c9d1d9&bg_color=0d1117" alt="Sandyka's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyansyah&layout=compact&hide_border=true&title_color=6bb3e1&text_color=c9d1d9&bg_color=0d1117" alt="Sandyka's Most Used Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
+  
+  <p>❤️ Let's connect and build something amazing together!</p>
+  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=sandyansyah&theme=nord&no-frame=true&row=1&column=7" alt="Sandyka's GitHub Trophy" />
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's Connect!**
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<!-- Anda dapat menambahkan akun media sosial dan email Anda di bagian Let's Connect -->
-<!-- Untuk menambahkan Snake animation, Anda perlu setup GitHub Action -->
+<!-- 
+Untuk menggunakan README ini, Anda perlu:
+1. Ganti "sandyansyah" dengan username GitHub Anda
+2. Ganti "YOUR_REPO_NAME" dengan nama repositori Anda
+3. Tambahkan tautan media sosial dan email Anda
+4. Untuk animasi Snake, aktifkan GitHub Action
+-->
